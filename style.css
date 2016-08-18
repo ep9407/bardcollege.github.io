@@ -82,3 +82,7 @@ img{
     padding: 0;
     width: 100%;
 }
+.redacted{
+        background-color: rgb(215, 206, 199);
+        color:rgb(64, 224, 208);
+}
